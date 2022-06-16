@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+#selo{
+    font-size: x-large;
+    font-weight: bolder;
+    color: darkblue;
+}
+ button{
+     height: 50px;
+     width: 300px;
+     border: goldenrod solid 5px;
+     font-size: large;
+     font-weight: bolder;
+     border-radius: 20px;
+ }
+ #inpo{
+    height: 50px;
+    width: 300px;
+    border: darkblue solid 10px;
+    font-size: large;
+    font-weight: bolder;
+    display: none;
+    margin-left: 520px;
+ }
+
+#imo1{
+    height: 150px;
+    width: 150px;
+    border-radius: 120px;
+    padding: 10px;
+    border: 7px;
+}
+#imo2{
+    height: 150px;
+    width: 150px;
+    border-radius: 120px;
+    padding: 10px;
+    border: 7px;
+}
+.lin{
+    display: flex;
+    margin-left: 520px;
+}
+#jimo{
+     height: 50px;
+     width: 300px;
+     border: red solid 5px;
+     font-size: large;
+     font-weight: bolder;
+     border-radius: 20px;
+
+}
